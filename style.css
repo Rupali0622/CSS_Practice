@@ -1,0 +1,49 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#head{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    text-transform: none;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    height: auto;
+    border-width: 5px;
+    border-style: dashed;
+}
+div{
+    background-color: lawngreen;
+    border: 5px solid purple;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+
+}
+.hello{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
