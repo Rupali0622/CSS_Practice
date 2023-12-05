@@ -1,0 +1,68 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#head{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    text-transform: none;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    height: auto;
+    border-width: 5px;
+    border-style: dashed;
+}
+
+.rectangular{
+    height: 400px;
+    width: 200px;
+    background-color:rgb(9, 9, 9);
+    margin-left: 500px;
+    padding-top: 30px;
+}
+#circle1{
+    background-color: red;
+    height:80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: px;
+}
+
+#circle2{
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: 65px;
+}
+
+#circle3{
+    background-color: green;
+    height:80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: 65px;
+}
