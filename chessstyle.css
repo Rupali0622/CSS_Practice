@@ -1,0 +1,16 @@
+body{
+    height: auto;
+    width: auto;
+}
+#white{
+    height: 112px;
+    width: 105px;
+    display: inline-block;
+}
+
+#black{
+    height: 112px;
+    width: 105px;
+    background-color: black;
+    display: inline-block;
+}
