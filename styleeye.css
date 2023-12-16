@@ -1,0 +1,48 @@
+.conn{
+    /* margin-top: 100px; */
+    margin-left: 510px;
+    font-family: "Lucida Handwriting", cursive;
+}
+.con{
+    height: 320px;
+    width: 320px;
+ background-color: pink;
+ padding: 10px 0px 0px 10px;
+ margin-top: 80px;
+ margin-left: 450px;
+ /* display: inline; */
+}
+
+.color{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border-radius: 50%;
+}
+ #color1{
+    background-color: rgb(236, 121, 165);
+ }
+ #color2{
+    background-color: rgb(255,0,179)
+ }
+ #color3{
+    background-color: rgb(255, 0, 111);
+ }
+ #color4{
+    background-color: rgb(76, 200, 100);;
+ }
+ #color5{
+    background-color: rgb(113, 174, 66)
+ }
+ #color6{
+    background-color: rgb(15, 163, 87);
+ }
+ #color7{
+    background-color: rgb(150, 70, 305);
+ }
+ #color8{
+    background-color: rgb(113, 0, 252);
+ }
+ #color9{
+    background-color: rgb(70, 0, 255);
+ }
