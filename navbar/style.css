@@ -19,3 +19,17 @@ a{
 button{
     background-color: #f08804;
 }
+
+#content{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+main{
+    height: 500px;
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}
