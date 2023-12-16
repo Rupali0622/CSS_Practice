@@ -1,0 +1,54 @@
+h2{
+    font-family: Papyrus, fantasy;
+    text-align: center;
+}
+.cir{  
+    border-radius: 50%;
+}
+#one{
+background-color: rgb(255, 0, 111);
+height: 500px;
+width: 500px;
+margin-left: 350px;
+padding-top: 1px;
+}
+#two{
+    height: 400px;
+    width: 400px;
+background-color: rgb(70, 0, 255);
+margin-left: 50px;
+padding-top: 1px;
+margin-top: 50px;
+}
+#three{
+    height: 300px;
+    width: 300px;
+background-color: rgb(255,0,179);
+margin-left: 50px;
+margin-top: 50px;
+padding-top: 1px;
+}
+#four{
+    height: 200px;
+    width: 200px;
+background-color: rgb(78, 238, 126);
+margin-left: 50px;
+margin-top: 50px;
+padding-top: 1px;
+
+}
+#five{
+    height: 100px;
+    width:100px;
+background-color: rgb(240, 232, 76);
+margin-left: 50px;
+margin-top: 50px;
+padding-top: 1px;
+}
+#six{
+    height: 50px;
+    width: 50px;
+background-color: rgba(255, 174, 0, 0.868);
+margin-left: 25px;
+margin-top: 25px;
+}
