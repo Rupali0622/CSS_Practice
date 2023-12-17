@@ -1,11 +1,13 @@
 
 body{
     background-color: rgb(168, 165, 165);
+    /* background-color: rgb(247, 167, 181); */
     margin: auto;
     padding: 0px;
 }
 .con{
     background-color: black;
+    /* background-color: rgb(231, 51, 165); */
     height: 40px;
     text-align: center;
     padding-top: 20px;
@@ -21,6 +23,7 @@ a{
 #logo{
     font-family: Papyrus, fantasy;
     color: rgb(134, 133, 133);
+    /* color: white; */
     text-align: left;
     font-size: 20px;
 }
@@ -30,6 +33,7 @@ img{
     margin-left: 490px;
     margin-top: 40px;
     border: black solid 3px;
+    /* border: mediumvioletred solid 3px; */
 }
 
 h2{
@@ -40,6 +44,7 @@ h2{
     font-size: medium;
     margin-top: 0px;
     line-height: 30px;
+    /* color: rgb(100, 15, 69); */
  }
 p{
     font-size: 10px;
