@@ -36,3 +36,13 @@ h2{
     text-align: center;
     margin: 2px;
 }
+ main p{
+    font-size: medium;
+    margin-top: 0px;
+    line-height: 30px;
+ }
+p{
+    font-size: 10px;
+    margin-top: 60px;
+    text-align: center;
+}
