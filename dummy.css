@@ -1,3 +1,9 @@
+
+body{
+    background-color: grey;
+    margin: auto;
+    padding: 0px;
+}
 .con{
     background-color: black;
     height: 40px;
@@ -14,12 +20,19 @@ a{
 
 #logo{
     font-family: Papyrus, fantasy;
-    color: grey;
+    color: rgb(239, 237, 237);
     text-align: left;
     font-size: 20px;
 }
 
-#image{
-    height: 700px;
-    margin-left: 500px;
+img{
+    height: 300px;
+    margin-left: 490px;
+    margin-top: 50px;
+    border: black solid 3px;
+}
+
+h2{
+    text-align: center;
+    margin: 2px;
 }
