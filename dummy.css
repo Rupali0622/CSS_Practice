@@ -1,0 +1,25 @@
+.con{
+    background-color: black;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right:210px;
+}
+
+#logo{
+    font-family: Papyrus, fantasy;
+    color: grey;
+    text-align: left;
+    font-size: 20px;
+}
+
+#image{
+    height: 700px;
+    margin-left: 500px;
+}
