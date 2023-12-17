@@ -1,6 +1,6 @@
 
 body{
-    background-color: grey;
+    background-color: rgb(168, 165, 165);
     margin: auto;
     padding: 0px;
 }
@@ -20,7 +20,7 @@ a{
 
 #logo{
     font-family: Papyrus, fantasy;
-    color: rgb(239, 237, 237);
+    color: rgb(134, 133, 133);
     text-align: left;
     font-size: 20px;
 }
@@ -28,7 +28,7 @@ a{
 img{
     height: 300px;
     margin-left: 490px;
-    margin-top: 50px;
+    margin-top: 40px;
     border: black solid 3px;
 }
 

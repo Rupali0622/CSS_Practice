@@ -1,0 +1,33 @@
+.rectangular{
+    height: 400px;
+    width: 200px;
+    background-color:rgb(9, 9, 9);
+    margin-left: 500px;
+    padding-top: 30px;
+}
+#circle1{
+    background-color: red;
+    height:80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: px;
+}
+
+#circle2{
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: 65px;
+}
+
+#circle3{
+    background-color: green;
+    height:80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: 65px;
+}
