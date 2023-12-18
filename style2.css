@@ -1,0 +1,58 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#head{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    text-transform: none;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+/* h1{
+    text-align: center;
+    background-color: yellow;
+    height: auto;
+    border-width: 5px;
+    border-style: dashed;
+} */
+span{
+    background-color: purple;
+}
+
+input{
+    background-color: yellowgreen;
+}
+#new{
+    background-color: lawngreen;
+}
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#old{
+    display: none;
+}
+
+#old1{
+    visibility: hidden;
+}
