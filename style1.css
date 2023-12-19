@@ -26,11 +26,15 @@
 #box2{
     background-color: rgb(167, 99, 99);
     position: relative;
+    right: 10px;
+    bottom: 20px;
 }
 
 #box3{
     background-color: rgb(94, 94, 173);
     position: absolute;
+    top: 0;
+    left: 0;
 }
 
 #box4{
@@ -44,4 +48,7 @@
     position: sticky;
     top: 0;
 
+}
+#outer{
+    border: red solid 3px;
 }
