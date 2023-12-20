@@ -11,10 +11,13 @@ body{
     height: 40px;
     text-align: center;
     padding-top: 20px;
+    width: 100%;
+    position: fixed;
     
 }
 
 a{
+
     text-decoration: none;
     color: white;
     margin-right:210px;
@@ -31,7 +34,7 @@ a{
 img{
     height: 300px;
     margin-left: 490px;
-    margin-top: 40px;
+    margin-top: 80px;
     border: black solid 3px;
     /* border: mediumvioletred solid 3px; */
 }
