@@ -4,6 +4,8 @@ body{
     /* background-color: rgb(247, 167, 181); */
     margin: auto;
     padding: 0px;
+    background-image: url(WhatsApp\ Image\ 2023-12-22\ at\ 1.03.58\ PM.jpeg);
+    background-size: cover;
 }
 .con{
     background-color: black;
@@ -42,6 +44,7 @@ img{
 h2{
     text-align: center;
     margin: 2px;
+    font-family: "Nunito", sans-serif;
 }
  main p{
     font-size: medium;
@@ -53,4 +56,5 @@ p{
     font-size: 10px;
     margin-top: 60px;
     text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
