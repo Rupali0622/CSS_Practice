@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+div{
+    border:2px solid black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#container{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+}
+#Box1{
+    background-color: red;
+}
+
+#Box2{
+    background-color: green;
+}
+
+#Box3{
+    background-color: blue;
+}
+
+#Box4{
+    background-color: yellow;
+}
+
+#Box5{
+    background-color: magenta;
+}
