@@ -8,15 +8,18 @@ div{
     height: 100px;
     width: 100px;
 }
+
+
 #container{
-    height: 200px;
+    height: 300px;
     width: 800px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 #Box1{
     background-color: red;
+    flex-grow: 1;
 }
 
 #Box2{
@@ -29,8 +32,10 @@ div{
 
 #Box4{
     background-color: yellow;
+    flex-shrink: 2;
 }
 
 #Box5{
     background-color: magenta;
+    flex-grow: 1;
 }
