@@ -2,6 +2,7 @@
 *{
     font-family: 'Times New Roman', Times, serif;
 }
+/*
 #box{
     background-color: blue;
 }
@@ -25,13 +26,13 @@ p{
 #inner{
     font-size: 10px;
 }
-/* h1{
+ h1{
     text-align: center;
     background-color: yellow;
     height: auto;
     border-width: 5px;
     border-style: dashed;
-} */
+} 
 span{
     background-color: purple;
 }
@@ -55,4 +56,14 @@ div{
 
 #old1{
     visibility: hidden;
+}*/
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(lucas-calloch-P-yzuyWFEIk-unsplash.jpg);
+    background-size: cover;
+    position: fixed;
+    right: 0px;
 }
