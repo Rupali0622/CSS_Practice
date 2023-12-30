@@ -1,12 +1,22 @@
 div{
     height: 200px;
     width: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
     background-color: aquamarine;
-    transition: all 1s ease-in 1s;
+    transition: all 1s ease-in 0s;
+
 
 }
 
 
 div:hover{
     background-color: palevioletred;
+    transform: rotate(45deg);
+    transform: scale(1.2);
+}
+
+div:active{
+    background-color: red;
+    color: blueviolet;
 }
