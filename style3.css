@@ -5,6 +5,8 @@ div{
     display: inline-block;
     color: white;
     transition: all;
+    margin-top: 70px;
+    margin-left:80px;
 }
 
 div:hover{
@@ -13,14 +15,15 @@ div:hover{
 }
 
 div.Two:hover{
-    background-color: aqua;
+    background-color: indigo;
+    transform: rotate(45deg);
 }
-p {
+/* p {
     display: none;
     background-color: yellow;
     padding: 20px;
-  }
+  } */
   
-div:hover p {
+/* div:hover p {
     display: block;
-  }
+  } */
