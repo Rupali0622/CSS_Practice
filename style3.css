@@ -5,18 +5,33 @@ div{
     display: inline-block;
     color: white;
     transition: all;
-    margin-top: 70px;
+    margin-top: 100px;
     margin-left:80px;
-}
+    animation-name: box;
+    animation-duration: 0.25s;
+    /* animation-timing-function: ease-in; */
+    animation-iteration-count: infinite;
+    /* transition: all 1s steps(15); */
+    border-radius: 50%;
 
+}
+@keyframes box{
+    from{background-color: violet;
+            transform: scaleX(1);}
+    to{background-color: indigo;
+    transform: scale(1.5);}
+}
 div:hover{
-    background-color: indigo;
-    color: black;
+    /* background-color: indigo;
+    color: black; */
+    /* transform: rotate(90deg); */
+    /* transform: translate(70px,-50px); */
+    /* transform: skew(30deg); */
 }
 
 div.Two:hover{
-    background-color: indigo;
-    transform: rotate(45deg);
+    /* background-color: indigo; */
+    /* transform: scaleX(1.5); */
 }
 /* p {
     display: none;
