@@ -1,24 +1,60 @@
 div{
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     background-color: violet;
     display: inline-block;
     color: white;
     transition: all;
-    margin-top: 100px;
-    margin-left:80px;
+    margin-top: 150px;
+    margin-left:150px;
+    /* animation-name: box; */
+    /* animation-duration: 0.25s; */
+    /* animation-timing-function: ease-in; */
+    /* animation-iteration-count: infinite; */
+    /* transition: all 1s steps(15); */
+    /* border-radius: 50%; */
+
+}
+.One{
     animation-name: box;
     animation-duration: 0.25s;
     /* animation-timing-function: ease-in; */
     animation-iteration-count: infinite;
     /* transition: all 1s steps(15); */
     border-radius: 50%;
-
+}
+.Two{
+    animation-name: box1;
+    animation-duration: 0.25s;
+    /* animation-timing-function: ease-in; */
+    animation-iteration-count: infinite;
+    /* transition: all 1s steps(15); */
+    border-radius: 50%;
+}
+.Three{
+    animation-name: box2;
+    animation-duration: 0.25s;
+    /* animation-timing-function: ease-in; */
+    animation-iteration-count: infinite;
+    /* transition: all 1s steps(15); */
+    border-radius: 50%;
 }
 @keyframes box{
-    from{background-color: violet;
+    from{background-color: red;
             transform: scaleX(1);}
-    to{background-color: indigo;
+    to{background-color: rgb(5, 215, 5);
+    transform: scale(1.5);}
+}
+@keyframes box1{
+    from{background-color: rgb(5, 215, 5);
+            transform: scaleX(1);}
+    to{background-color: rgb(19, 188, 249);
+    transform: scale(1.5);}
+}
+@keyframes box2{
+    from{background-color: rgb(19, 188, 249);
+            transform: scaleX(1);}
+    to{background-color: rgb(255, 217, 0);
     transform: scale(1.5);}
 }
 div:hover{
